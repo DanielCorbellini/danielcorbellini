@@ -1,25 +1,11 @@
-## Hi, I'm Rui!!! 😄
+## Hi, I'm Daniel!!! 
 
-I am specializing in Java, with a focus on Spring Boot. I have skills in front-end development as well. By combining my academic background in engineering and my technical knowledge in programming, I am prepared to tackle exciting challenges in the field of software development.
+I am a highly motivated and enthusiastic Software Engineering student, eager to learn and contribute to the field of technology and development
 
-- I'm student at the University UFPA - TUCURUÍ/PA 🌎 
-- Majoring in Computer Engineering - 9th / 10th period 👨‍💻 👨‍🎓 
-- studying: Java and Spring Boot 💻 📔
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rui-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Rui-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Rui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rui-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">  
-  <img align="center" alt="Rui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rui-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">   
-</div>
-</br>
-<div>
-  <a href = "mailto:sruy19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- I'm student at the University Univates
+- I am constantly seeking opportunities to expand my knowledge and stay updated with the latest trends and tools in the development field. I intend to deepen my knowledge in frameworks such as Spring Boot and Django for web development and API building.
+- I am very excited to kickstart my career in Software Development and I am looking for challenging opportunities to apply my skills and contribute to innovative projects.
+  
   <a href="https://www.linkedin.com/in/sruinascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
   
 
