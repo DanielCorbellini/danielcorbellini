@@ -16,7 +16,7 @@ I am a highly motivated and enthusiastic Software Engineering student, eager to 
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <i class="devicon-django-plain-wordmark"></i>
+  <img class="devicon-django-plain-wordmark">
 </div>
 
   ## For more information about me access my Linkedin account =)
