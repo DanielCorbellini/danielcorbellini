@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ## Hi, I'm Daniel!!! 
 
 I am a highly motivated and enthusiastic Software Engineering student, eager to learn and contribute to the field of technology and development
@@ -14,6 +16,7 @@ I am a highly motivated and enthusiastic Software Engineering student, eager to 
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <i class="devicon-django-plain-wordmark"></i>
 </div>
 
   ## For more information about me access my Linkedin account =)
