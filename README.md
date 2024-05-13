@@ -20,6 +20,9 @@ I am a highly motivated and enthusiastic Software Engineering student, eager to 
   ## For more information about me access my Linkedin account =)
   
   <a href="https://www.linkedin.com/in/daniel-corbellini-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCorbellini&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCorbellini&layout=compact&theme=radical)
+
   
 
 
