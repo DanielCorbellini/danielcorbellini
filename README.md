@@ -22,7 +22,7 @@ I am a highly motivated and enthusiastic Software Engineering student, eager to 
 ## Studying
   <div>
     <img alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" />
     <img alt="django-rest-framework" src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </div>
 
