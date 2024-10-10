@@ -17,6 +17,7 @@ I am a highly motivated and enthusiastic Software Engineering student, eager to 
     <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img alg="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </div>
 
 ## Studying
@@ -44,6 +45,6 @@ I am a highly motivated and enthusiastic Software Engineering student, eager to 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCorbellini&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCorbellini&layout=compact&theme=radical)
 
 
-
+<!--https://dev.to/envoy_/150-badges-for-github-pnk>
 
 
