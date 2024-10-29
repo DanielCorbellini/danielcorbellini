@@ -42,7 +42,10 @@ I am a highly motivated and enthusiastic Software Engineering student, eager to 
  
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCorbellini&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCorbellini&layout=compact&theme=radical)
+<div align=center>
+  <img width=507 src="https://github-readme-stats.vercel.app/api?username=DanielCorbellini&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github" alt="github stats" />
+  <img width=334 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCorbellini&hide=jupyter%20notebook,css,scss,cmake,pug&langs_count=8&theme=gruvbox&layout=compact" alt="top langs" />
+</div>
 
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk>
