@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel!!! 
 
- I'm a full-stack software developer
+ I'm a full-stack software developer currently working with PHP
 
 - I am a student at Univates University, majoring in Software Engineering (currently in the 4th out of 8 periods).
 - I am constantly seeking opportunities to expand my knowledge and stay updated with the latest trends and tools in development. I intend to deepen my skills in frameworks like Spring Boot, Laravel, and Django for web development and API building.
