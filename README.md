@@ -1,10 +1,10 @@
-## Hi, I'm Daniel!!! 
+# Daniel Corbellini 
 
- I'm a full-stack software developer currently working with PHP
+ I'm a full-stack software developer from Brazil
 
-- I am a student at Univates University, majoring in Software Engineering (currently in the 4th out of 8 periods).
-- I am constantly seeking opportunities to expand my knowledge and stay updated with the latest trends and tools in development. I intend to deepen my skills in frameworks like Spring Boot, Laravel, and Django for web development and API building.
-- I am always looking for challenging opportunities to apply my skills and contribute to innovative projects.
+- I'm a Software Engineering student, currently in the 5th of 8 periods;
+- I'm currently working with PHP at a company focused on educational management software;
+- I'm always looking for challenging opportunities to apply my skills and contribute to innovative projects;
 
  ## Solid knowledge of
   <div>
