@@ -13,7 +13,7 @@
 
 ## Studying
   <div>
-    <img src="https://skillicons.dev/icons?i=react,laravel,django,docker,linux&perline=20" />
+    <img src="https://skillicons.dev/icons?i=react,laravel,django,docker,linux,nextjs&perline=20" />
   </div>
 
 ## Intend to study
