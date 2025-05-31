@@ -8,17 +8,17 @@
 
  ## Solid knowledge of
   <div>
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,django,php,postgres,git&perline=20" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,django,php,laravel,postgres,git&perline=20" />
   </div>
 
 ## Studying
   <div>
-    <img src="https://skillicons.dev/icons?i=react,laravel,django,docker,linux,nextjs&perline=20" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,django,laravel,docker,linux&perline=20" />
   </div>
 
 ## Intend to study
   <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,flutter&perline=20" />
+    <img src="https://skillicons.dev/icons?i=mongodb,flutter,unity&perline=20" />
   </div>
   
  ## Contact information
