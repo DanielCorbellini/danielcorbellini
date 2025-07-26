@@ -2,7 +2,7 @@
 
  I'm a full-stack software developer from Brazil
 
-- I'm a Software Engineering student, currently in the 5th of 8 periods;
+- I'm a Software Engineering student, currently in the 6th of 8 periods;
 - I'm currently working with PHP at a company focused on educational management software;
 - I'm always looking for challenging opportunities to apply my skills and contribute to innovative projects;
 
