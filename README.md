@@ -8,23 +8,23 @@
 
  ## Solid knowledge of
   <div>
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,django,php,laravel,postgres,git&perline=20" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,java,python,django,php,laravel,postgres,git&perline=20" />
   </div>
 
 ## Studying
   <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,django,laravel,docker,linux&perline=20" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,django,laravel,flutter,docker,linux&perline=20" />
   </div>
 
 ## Intend to study
   <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,flutter,unity&perline=20" />
+    <img src="https://skillicons.dev/icons?i=mongodb,unity,kubernetes,rust,solidity&perline=20" />
   </div>
   
  ## Contact information
  <div style="display: block">
-  <a href="https://www.linkedin.com/in/daniel-corbellini-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:daniel.corbellini27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-corbellini-/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=20" /></a>
+  <a href="mailto:daniel.corbellini27@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&perline=20" /></a>
  </div>
  
 ## Stats
