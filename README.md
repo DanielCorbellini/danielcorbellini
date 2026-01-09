@@ -2,7 +2,7 @@
 
  I'm a full-stack software developer from Brazil
 
-- I'm a Software Engineering student, currently in the 6th of 8 periods;
+- I'm a Software Engineering student, currently in the 7th of 8 periods;
 - I'm currently working with PHP at a company focused on educational management software;
 - I'm always looking for challenging opportunities to apply my skills and contribute to innovative projects;
 
@@ -13,12 +13,12 @@
 
 ## Studying
   <div>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,flutter,docker&perline=20" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,solidity,docker&perline=20" />
   </div>
 
 ## Intend to study
   <div>
-    <img src="https://skillicons.dev/icons?i=solidity,rust,kubernetes,mongodb,unity&perline=20" />
+    <img src="https://skillicons.dev/icons?i=rust,kubernetes,mongodb,unity&perline=20" />
   </div>
   
  ## Contact information
