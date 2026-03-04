@@ -29,9 +29,9 @@
  
 ## Stats
 <div align=center>
-  <img width=500 src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielCorbellini&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github" alt="github stats" />
-  <img width=400 src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DanielCorbellini&hide=jupyter%20notebook,css,scss,cmake,pug&langs_count=8&theme=gruvbox&layout=compact" alt="top langs" />
-  <img src="https://streak-stats.demolab.com?user=DanielCorbellini&theme=gruvbox&hide_border=false" alt="DanielCorbellini's GitHub Stats" />
+  <img width=480 src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielCorbellini&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github" alt="github stats" />
+  <img width=350 src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DanielCorbellini&hide=jupyter%20notebook,css,scss,cmake,pug&langs_count=8&theme=gruvbox&layout=compact" alt="top langs" />
+  <img width="500" src="https://streak-stats.demolab.com?user=DanielCorbellini&theme=gruvbox&hide_border=false" alt="DanielCorbellini's GitHub Stats" />
 </div>
 
 
