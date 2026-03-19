@@ -2,9 +2,10 @@
 
  I'm a full-stack software developer from Brazil
 
-- I'm a Software Engineering student, currently in the 7th of 8 periods;
-- I'm currently working with PHP at a company focused on educational management software;
-- I'm always looking for challenging opportunities to apply my skills and contribute to innovative projects;
+- I'm a Software Engineering student, currently in the 7th of 8 periods writing my thesis;
+- Working with PHP at a company focused on educational management software;
+- Always looking for challenging opportunities to apply my skills and contribute to innovative projects;
+- Passionate about blockchain, cryptography and game development.
 
  ## Solid knowledge of
   <div>
